@@ -1,7 +1,5 @@
 ### Here is what i'm working on 👋
 
-<!--
-**bukhaari/bukhaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Facebook](https://www.facebook.com/maanlule)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...Participate in the solution
--->
+
